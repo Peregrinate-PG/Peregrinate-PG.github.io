@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alex Sterling 李想
+title: Alex Sterling
 
 # Name pronunciation (optional)
-name_pronunciation: Li Xiang
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Alex
@@ -11,7 +11,7 @@ last_name: Sterling
 
 # Status emoji
 status:
-  icon: 🎓😼🎓
+  icon: 😀
 
 # Is this the primary user of the site?
 superuser: true
