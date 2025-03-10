@@ -55,7 +55,7 @@ education:
   - area: BEng Computer Science
     institution: Yingcai Honors College of UESTC
     date_start: 2023-09-01
-    date_end: 2027-6-07
+    date_end: 2027-06-07
     summary: |
       GPA: 3.99/4.00
 
