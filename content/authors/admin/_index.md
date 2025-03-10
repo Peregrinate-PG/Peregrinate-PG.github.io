@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alex Sterling
+title: 李想
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: Li Xiang
 
 # Full name (for SEO)
 first_name: Alex
@@ -71,7 +71,7 @@ education:
       - Data Structures & Algorithms
       - Computer architecture
       - Computer networks
-      - etc...
+      - ...
 
       Thesis on _Evolutionary Game Theory_. Supervised by [Prof liangjian Deng](https://liangjiandeng.github.io). Submitted papers at influential IEEE and Elsevier journals.
     button:
@@ -151,5 +151,12 @@ awards:
 ---
 
 ## About Me
+I am **Xiang Li (李想)**, you can also call me **Alex Sterling**. I am currently an undergraduate student at **[Yingcai Honors College of UESTC](https://www.yingcai.uestc.edu.cn/en/)** majoring in Computer Science and Technology.
 
-As an undergraduate student at the Yingcai Honors College of UESTC (top 2% selective program), I pursue rigorous interdisciplinary research spanning game theory and artificial intelligence. My first-authored works on Q-learning in evolutionary games are currently under review at IEEE Transactions on Cybernetics (IF=11.8) and an Applied Mathematical Modelling "special issue", developing novel Q-learning frameworks for cooperation dynamics. Beyond my core focus on estimation theory, I actively bridge mathematical foundations with practical AI implementations – from ROF-based image denoising to neural PDE solvers – evidenced by my APMCM Outstanding Winner Award. Maintaining a 3.99/4.00 GPA while conducting these explorations, I further strengthen technical communication through IELTS 7.0-certified English proficiency. I am particularly driven to investigate how adaptive learning mechanisms can reshape strategic decision-making in complex systems.
+My research interests primarily focus on **network science** and **evolutionary game theory**. My initial researches explore **Q-learning** mechanisms in strategic decision-making, with two first-authored papers under review at *IEEE Transactions on Cybernetics* and *"special issue"* column under *Applied Mathematical Modelling*. 
+
+Alongside my recent work on pair estimation theory, I enjoy bridging mathematical models with computational implementations. This includes deriving ROF algorithms for image denoising, designing neural networks for solving PDEs, and experimenting with pansharpening techniques. Moreover, I am also very interested in mathematical modeling. Our underwater image restoration scheme won the **first prize** in 2024 Asia and Pacific Mathematical Contest in Modeling(APMCM).
+
+With a **3.99/4.00 GPA** and **IELTS 7.0** certification, I am confident that I have the necessary knowledge reserve and language ability for scientific research. I strive to maintain both academic rigor and effective cross-cultural communication. I'm always open to discussing game-theoretic learning frameworks, AI-driven mathematical modeling, or any interdisciplinary challenges.
+
+If our research interests resonate, welcome collaborative opportunities – let's connect!😀
