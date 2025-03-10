@@ -11,7 +11,7 @@ last_name: Sterling
 
 # Status emoji
 status: Studying
-  icon: 🎓😼🎓
+icon: 🎓😼🎓
 
 # Is this the primary user of the site?
 superuser: true
