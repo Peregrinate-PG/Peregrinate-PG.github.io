@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李想
+title: Xiang Li
 
 # Name pronunciation (optional)
 name_pronunciation: Li Xiang
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lxinuestc@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -153,9 +153,9 @@ awards:
 ## About Me
 I am **Xiang Li (李想)**, you can also call me **Alex Sterling**. I am currently an undergraduate student at **[Yingcai Honors College of UESTC](https://www.yingcai.uestc.edu.cn/en/)** majoring in Computer Science and Technology.
 
-My research interests primarily focus on **network science** and **evolutionary game theory**. My initial researches explore **Q-learning** mechanisms in strategic decision-making, with two first-authored papers under review at *IEEE Transactions on Cybernetics* and *"special issue"* column under *Applied Mathematical Modelling*. 
+My research interests primarily focus on **Network Science** and **Evolutionary Game Theory**. My initial researches explore **Q-learning** mechanisms in strategic decision-making, with two first-authored papers under review at ***IEEE Transactions on Cybernetics*** and ***"special issue" column of Applied Mathematical Modelling***. 
 
-Alongside my recent work on pair estimation theory, I enjoy bridging mathematical models with computational implementations. This includes deriving ROF algorithms for image denoising, designing neural networks for solving PDEs, and experimenting with pansharpening techniques. Moreover, I am also very interested in mathematical modeling. Our underwater image restoration scheme won the **first prize** in 2024 Asia and Pacific Mathematical Contest in Modeling(APMCM).
+Alongside my recent work on pair estimation theory, I enjoy bridging mathematical models with computational implementations. This includes deriving **ROF algorithms for image denoising**, designing **neural networks for solving PDEs**, and experimenting with **Pansharpening** techniques. Moreover, I am also very interested in mathematical modeling. Our underwater image restoration scheme won the **First Prize** in 2024 Asia and Pacific Mathematical Contest in Modeling(**APMCM**).
 
 With a **3.99/4.00 GPA** and **IELTS 7.0** certification, I am confident that I have the necessary knowledge reserve and language ability for scientific research. I strive to maintain both academic rigor and effective cross-cultural communication. I'm always open to discussing game-theoretic learning frameworks, AI-driven mathematical modeling, or any interdisciplinary challenges.
 
