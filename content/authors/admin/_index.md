@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiang Li
+title: 李 想
 
 # Name pronunciation (optional)
 name_pronunciation: Li Xiang
